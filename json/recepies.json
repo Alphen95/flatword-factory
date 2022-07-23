@@ -1,0 +1,20 @@
+{
+    "furnace":[
+        {"name":"furnace_metalplate",
+        "requires":[["metal_ore",1],["castmold_plate",1]],
+        "outputs":[["metal_plate",1]],
+        "time":5,
+        "not_consumable":[1],
+        "display_out":"metal_plate"
+        }
+    ],
+    "generator":[
+        {"name":"generator_coal_power",
+        "requires":[["coal_ore",1]],
+        "outputs":[],
+        "time":5,
+        "not_consumable":[],
+        "display_out":"energy"
+        }
+    ]
+}

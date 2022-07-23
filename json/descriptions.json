@@ -1,0 +1,95 @@
+{
+    "simple_motor_part":[
+        "Simple Motor Part",
+        "Simple motor for",
+        "low-tier mechanisms.",
+        ""
+    ],
+    "simple_turbine_part":[
+        "Simple Turbine Part",
+        "Simple turbine for basic",
+        "power generators",
+        ""
+    ],
+    "castmold_plate":[
+        "Plate Casting Mold",
+        "Casting mold for",
+        "furnace.",
+        "Shape: Plate"
+    ],
+    "castmold_rod":[
+        "Rod Casting Mold",
+        "Casting mold for",
+        "furnace.",
+        "Shape: Rod"
+    ],
+    "metal_ore":[
+        "Metal Ore",
+        "A piece of fresh",
+        "metal. Needs to be",
+        "smelted."
+    ],
+    "coal_ore":[
+        "Coal Ore",
+        "A piece of coal.",
+        "Perfect source of",
+        "heat and power."
+    ],
+    "copper_ore":[
+        "Copper Ore",
+        "A piece of fresh",
+        "copper. Needs to be",
+        "smelted."
+    ],
+    "metal_plate":[
+        "Metal Plate",
+        "A simple plate made",
+        "out of metal. Base",
+        "crafting ingredient."
+    ],
+    "metal_rod":[
+        "Iron Rod",
+        "A rod made out of",
+        "metal. Base crafting",
+        "ingredient."
+    ],
+    "copper_rod":[
+        "Copper Rod",
+        "A rod made out of",
+        "copper. Base crafting",
+        "ingredient."
+    ],
+    "copper_wire":[
+        "Spool of Copper Wire",
+        "Great electricity",
+        "conductor.",
+        ""
+    ],
+    "energy":[
+        "Electricity",
+        "",
+        "",
+        ""
+    ],
+    "recepie_furnace_metalplate":[
+        "Metal Plate"
+    ],
+    "recepie_generator_energy":[
+        "Coal Energy"
+    ],
+    "recepies_misc":[
+        "Requires:",
+        "Output:"
+    ],
+    "machine_names":{
+        "furnace":"Furnace",
+        "storage_box":"Storage Crate",
+        "generator":"Coal Generator"
+    },
+    "template":[
+        "",
+        "",
+        "",
+        ""
+    ]
+}
